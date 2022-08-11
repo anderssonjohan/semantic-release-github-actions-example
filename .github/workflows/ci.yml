@@ -32,6 +32,9 @@ jobs:
       - uses: actions/setup-node@v2
       - name: npm install
         run: npm install
+      - name: Check rate limit
+        run: |
+          curl -H "Accept: application/vnd.github+json" -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/rate_limit
       - name: semantic-release
         id: semantic
         uses: cycjimmy/semantic-release-action@v2
