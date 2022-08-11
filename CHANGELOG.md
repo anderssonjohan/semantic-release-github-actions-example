@@ -1,3 +1,11 @@
+## [1.2.0-dev.1](https://github.com/anderssonjohan/semantic-release-github-actions-example/compare/v1.1.0...v1.2.0-dev.1) (2022-08-11)
+
+
+### Features
+
+* print rate limit ([7de8ca8](https://github.com/anderssonjohan/semantic-release-github-actions-example/commit/7de8ca806f34a24c104addff76f20be7e14cbb69))
+* trigger 4th release ([40a0dc5](https://github.com/anderssonjohan/semantic-release-github-actions-example/commit/40a0dc5d003c5d9598c1a1c1dda7702ca4363773))
+
 ## [1.1.0](https://github.com/anderssonjohan/semantic-release-github-actions-example/compare/v1.0.0...v1.1.0) (2022-08-11)
 
 
