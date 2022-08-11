@@ -1,3 +1,10 @@
+## [1.2.0-dev.2](https://github.com/anderssonjohan/semantic-release-github-actions-example/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2022-08-11)
+
+
+### Features
+
+* trigger release ([72e98c0](https://github.com/anderssonjohan/semantic-release-github-actions-example/commit/72e98c0f1135b0b3b892b8e9153873f146954492))
+
 ## [1.2.0-dev.1](https://github.com/anderssonjohan/semantic-release-github-actions-example/compare/v1.1.0...v1.2.0-dev.1) (2022-08-11)
 
 
